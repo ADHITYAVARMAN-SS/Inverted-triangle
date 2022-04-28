@@ -1,2 +1,0 @@
-# Inverted-triangle
-by adhityavarman
